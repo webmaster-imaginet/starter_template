@@ -48,4 +48,3 @@ And for styles via `wp_register_style` following `wp_enqueue_style`
 
 <a href="https://developer.wordpress.org/reference/functions/wp_enqueue_script/" target="_blank">https://developer.wordpress.org/reference/functions/wp_enqueue_script/</a>
 
-
